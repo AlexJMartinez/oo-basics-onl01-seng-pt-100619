@@ -12,5 +12,6 @@ class Book
     @page_count
   end
   def genres
+    @genres
   end
 end
