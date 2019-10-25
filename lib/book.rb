@@ -6,4 +6,8 @@ class Book
   end
   def author
   end
+  def page_count
+  end
+  def genres
+  end
 end
