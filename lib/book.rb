@@ -6,6 +6,7 @@ class Book
     @title
   end
   def author
+    @author
   end
   def page_count
   end
