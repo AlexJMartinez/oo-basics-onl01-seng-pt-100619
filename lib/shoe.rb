@@ -6,7 +6,5 @@ class Shoe
     @brand = brand
   end
 
-  #def condition
-  #  puts "The shoe has been repaired"
-  #end
+  
 end
