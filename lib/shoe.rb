@@ -6,7 +6,7 @@ class Shoe
     @brand = brand
   end
 
-  def contidion
+  def condition
     puts "The shoe has been repaired"
   end
 end
